@@ -3,7 +3,7 @@
 
 `ReliQ` is an experimental lattice field theory ecosystem targeting user-friendliness, performance, reliability, and portability across current and future heterogeneous architectures. We want the process of writing practical and performant lattice field theory programs in `ReliQ` to be both enjoyable, productive, and rewarding. As such, the `ReliQ` ecosystem shall revolve around the [ReliQ framework](https://github.com/reliq-lft/ReliQ), which will provide the baseline parallel primitives, both for more focused components of the `ReliQ` ecosystem and any applications/code-bases that may reside outside of it. 
 
-> Please note that `ReliQ` is in the early development stage; it is not ready for production at this point. However, if you like what you're seeing, we could use help; please contact us at [reliq-lft@protonmail.me](reliq-lft@protonmail.me). Otherwise, you can follow us by clicking the `follow` button in the top right corner of this page.
+> Please note that `ReliQ` is in the early development stage; it is not ready for production at this point. However, if you like what you're seeing, we could use help; please contact us at [reliq-lft@protonmail.me](reliq-lft@protonmail.me). Otherwise, you can follow us by clicking the `Follow` button in the top right corner of this page.
 
 ## Influences
 
